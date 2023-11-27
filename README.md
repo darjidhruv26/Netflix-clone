@@ -109,9 +109,9 @@ docker run --name netflix-clone-website --rm -d -p 80:80 netflix-clone
 
 ![pro-6](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/5e7fba38-de8e-4c43-a89d-af567ee6dbad)
 
-![pro-7](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/e57e1299-10ae-4b46-969b-dbe156c6781b)
-
 ![pro-1](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/f7c1e3f7-2e81-4cfa-9b5a-57b39f69017e)
+
+![pro-7](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/e57e1299-10ae-4b46-969b-dbe156c6781b)
 
 ![gra-1](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/7999fa51-f3d8-4b39-b8cd-8dc539a38e60)
 
@@ -122,6 +122,8 @@ docker run --name netflix-clone-website --rm -d -p 80:80 netflix-clone
 ![grafana-jenkins-first](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/00e376dd-e6df-4784-bc8f-4244d0ec73a6)
 
 ![jenk-1](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/b0c24c1b-c6fc-42ac-88c8-21a02eaa04fa)
+
+![jen-job-3](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/2d298448-c220-48fc-8816-977aa75ed860)
 
 ![jen-job-3](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/18b1d7f9-4667-4f25-9123-46e312dd1017)
 
