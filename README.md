@@ -93,3 +93,36 @@ docker run --name netflix-clone-website --rm -d -p 80:80 netflix-clone
 - Replace bundler([Vite](https://vitejs.dev/guide)) with [Turbopack](https://turbo.build/pack/docs/why-turbopack). Turbopack is introduced in Next.js conf recently. It's very fast but it's nor ready to use right now. it just support Next.js, and they plan to support all others as soon as possible. so if it's ready to use, replace [Vite](https://vitejs.dev/guide) with [Turbopack](https://turbo.build/pack/docs/why-turbopack).
 - Add accessibilities for better UX.
 - Add Tests.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![sonar-1](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/f8f60cf2-7c5c-438b-8028-b61eb78ab9ff)
+
+![pro-2](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/56de0807-ea0a-43ef-aaea-3249b2c8c250)
+
+![pro-3](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/92c78fae-f507-41dc-8731-506ad2db4eb5)
+
+![pro-4](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/05e08e59-ff03-4495-800e-07eb21d3c602)
+
+![pro-5](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/fc1147c1-162f-4c14-a251-3f03c5348d29)
+
+![pro-6](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/5e7fba38-de8e-4c43-a89d-af567ee6dbad)
+
+![pro-7](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/e57e1299-10ae-4b46-969b-dbe156c6781b)
+
+![pro-1](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/f7c1e3f7-2e81-4cfa-9b5a-57b39f69017e)
+
+![gra-1](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/7999fa51-f3d8-4b39-b8cd-8dc539a38e60)
+
+![Grafana-1](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/d26f7b7c-c9c2-4ef3-a77c-70ce047d94a1)
+
+![firstJob-1](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/f5cbcfdb-285d-4766-b938-c1302b4886dd)
+
+![grafana-jenkins-first](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/00e376dd-e6df-4784-bc8f-4244d0ec73a6)
+
+![jenk-1](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/b0c24c1b-c6fc-42ac-88c8-21a02eaa04fa)
+
+![jen-job-3](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/18b1d7f9-4667-4f25-9123-46e312dd1017)
+
+![Output1](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/c35223ad-137c-485a-b3f6-df324a2d0a97)
