@@ -119,6 +119,8 @@ docker run --name netflix-clone-website --rm -d -p 80:80 netflix-clone
 
 ![firstJob-1](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/f5cbcfdb-285d-4766-b938-c1302b4886dd)
 
+![secjob-jenkins-2](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/3460ca69-d9b8-4126-b276-da3ac13d3d6c)
+
 ![grafana-jenkins-first](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/00e376dd-e6df-4784-bc8f-4244d0ec73a6)
 
 ![jenk-1](https://github.com/darjidhruv26/Netflix-clone/assets/90086813/b0c24c1b-c6fc-42ac-88c8-21a02eaa04fa)
